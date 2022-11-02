@@ -1,0 +1,19 @@
+default_win_points = 50
+question_finishing_warning_time = 5
+trivia_game_embed_delay = 5
+anime_category = "Anime"
+plum_category = "Plum"
+coop_category = "Coop"
+any_category = "Any"
+politics_category = "Politics"
+animals_category = "Animals"
+computers_category = "Computers"
+geography_category = "Geography"
+general_knowledge_category = "General Knowledge"
+question_wait_time_before_cleanup = 5
+anime_api_url = "https://opentdb.com/api.php?amount=50&category=31&type=multiple"
+animal_api_url = "https://opentdb.com/api.php?amount=50&category=27&type=multiple"
+politics_api_url = "https://opentdb.com/api.php?amount=50&category=24&type=multiple"
+computers_api_url = "https://opentdb.com/api.php?amount=50&category=18&type=multiple"
+geography_api_url = "https://opentdb.com/api.php?amount=50&category=22&type=multiple"
+general_knowledge_api_url = "https://opentdb.com/api.php?amount=50&category=9&type=multiple"
